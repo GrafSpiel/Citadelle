@@ -1,4 +1,4 @@
-# Citadelle (C++ Version)
+# Citadelle
 
 **Citadelle** is a post-quantum cryptographic library designed to provide quantum-resistant key encapsulation mechanisms (KEM). This is the C++ implementation of the library.
 
